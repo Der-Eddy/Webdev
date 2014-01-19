@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule ^lasfm\.png$ lastfm.php
+RewriteRule ^keys\.jpg$ keys.php?key=1

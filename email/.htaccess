@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^dereddy\.png$ Email.php?text=webmaster%40dereddy.de
